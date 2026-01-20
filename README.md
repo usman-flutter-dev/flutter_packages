@@ -27,6 +27,7 @@ shimmer: ^3.0.0
 flutter_screenutil: ^5.9.3
 carousel_slider: ^5.1.1
 intl: ^0.20.2
+glass_kit: ^4.0.2
 -->
 
 ## Packages (pub.dev)
