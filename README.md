@@ -3,7 +3,7 @@ Get a quick look at the Flutter Packages for your application.
 
 ---
 
-## 🙏 Acknowledgment
+## Acknowledgment
 
 *A big thank you to Sir Ishaq Hassan for the invaluable mentorship and guidance* throughout the development and learning of Flutter concepts, which made the creation of this helpful, architecturally sound application possible.
 
