@@ -55,7 +55,7 @@ class GoogleFontsPackage extends StatelessWidget {
               style: GoogleFonts.creepster(fontSize: 24, color: Colors.blue),
             ),
 
-            // Do More Experiments and Explore other Properties Please
+            // Do More Experiments and Explore other PropertiePlease
           ],
         ),
       ),
