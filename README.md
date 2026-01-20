@@ -14,8 +14,6 @@ Get a quick look at the Flutter Packages for your application.
 You can suggest any package, you want me to list here for you with a use case code.
 
 ---
-
-```md
 <!--
 UPCOMING PACKAGES:
 dio: ^5.9.0
@@ -35,6 +33,7 @@ intl: ^0.20.2
 
 ```yaml
 google_fonts: ^7.0.0 - Apply beautiful Google Fonts to your Flutter UI with minimal setup.
+```
 ---
 
 A few resources to get you started if this is your first Flutter project:
